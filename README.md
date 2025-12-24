@@ -56,10 +56,6 @@ O dashboard foi desenvolvido para fornecer uma visão executiva e analítica das
 - Distribuição por status (Entregue, Em trânsito, Cancelado)
 - Produtos e fornecedores com maior valor
 
-Prévia do dashboard:
-
-![Dashboard de Compras](powerbi/image.png)
-
 
 ---
 
