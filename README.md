@@ -43,3 +43,28 @@ purchase-analytics-spark-powerbi/
 │   └── image.png
 └── README.md
 
+
+---
+
+## Dashboard no Power BI
+O dashboard foi desenvolvido para fornecer uma visão executiva e analítica das compras, contemplando:
+
+- Valor total de compras
+- Variação mês a mês (MoM)
+- Quantidade de compras e itens vendidos
+- Evolução do valor ao longo do tempo
+- Distribuição por status (Entregue, Em trânsito, Cancelado)
+- Produtos e fornecedores com maior valor
+
+Prévia do dashboard:
+
+![Dashboard de Compras](powerbi/image.png)
+
+
+---
+
+## Principais Destaques
+- Pipeline de dados completo (end-to-end)
+- Separação clara entre ingestão, tratamento e consumo
+- Transformações realizadas em Spark com foco analítico
+- Dashboard orientado a indicadores de negócio
