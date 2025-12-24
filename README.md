@@ -32,4 +32,14 @@ Databricks (Spark)
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
+purchase-analytics-spark-powerbi/
+├── cloud/
+│   ├── bronze_compras.ipynb
+│   ├── silver_compras.ipynb
+│   └── gold_compras.ipynb
+├── powerbi/
+│   ├── ProjetoPBI.pbix
+│   └── image.png
+└── README.md
+
